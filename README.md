@@ -6,7 +6,7 @@
 
 
 <br />
-- 🌱 I was a Graphic & UI Designer <br />
+- 🌱 I was a Visual Designer & Developer <br />
 - 🔭 I'm delving into the world of Web Development.
 
 <br />
